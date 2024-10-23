@@ -27,7 +27,7 @@ Responsive UI: The app layout adjusts dynamically for mobile and desktop users.
 1. Clone the repository:
   bash
   Copy code
-  git clone https://github.com/your-username/melodyverse.git
+  git clone {mylink}
   cd melodyverse
 2. Install dependencies:
   bash
